@@ -1,0 +1,16 @@
+# Magicbone Bolt
+**Item Type:** Ammo
+
+**Description:**
+Bolt carved from animal bone. The tip is daubed with a glintstone tincture. Deals magic damage. Craftable item.
+
+**Attack Power:**
+- physical | amount: 15
+- magic | amount: 75
+- fire | amount: 0
+- lightning | amount: 0
+- holy | amount: 0
+- critical | amount: 100
+
+**Passive:**
+-

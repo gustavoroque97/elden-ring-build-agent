@@ -1,0 +1,15 @@
+# Environments
+.env
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Vector Database (FAISS)
+# It's usually better to let users build their own index rather than pushing huge binary files
+faiss_index/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
